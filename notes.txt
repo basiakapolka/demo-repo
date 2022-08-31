@@ -5,3 +5,7 @@ Some more interesting notes that are important!
 I added something here  
 
 This too is interesting!
+
+another new line.
+
+editing in VS code.
