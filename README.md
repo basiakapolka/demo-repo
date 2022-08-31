@@ -3,7 +3,9 @@
 A new paragraph.
 This is a demo repo for Get Git!
 
-A new edit.
+new line here 
+
+A  really new edit.
 
 This is content.
 
