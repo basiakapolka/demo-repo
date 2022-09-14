@@ -10,3 +10,5 @@ A  really new edit.
 This is content.
 
 Editing a file in VS A line I wrote on my local computer
+
+This *is* a line *from* RStudio.
